@@ -1,0 +1,76 @@
+.A{
+    width: 350px;
+    height: 200px;
+    text-align: center;
+    background-color: olive;
+    position: relative;
+    top: 16px;
+    
+}
+.A:hover{
+    background-color: rgb(86, 84, 84);
+    transition:3s
+}
+.B{
+    width: 350px;
+    height:200px;
+    text-align: center;
+    background-color: aquamarine;
+    position: relative;
+    left: 56.6%;
+    bottom: 4px;
+}
+.B:hover{
+    background-color: rgb(240, 240, 238);
+    transition:3s
+}
+.C{
+    width:200px;
+    height:200px;
+    text-align: center;
+    background-color: rgba(173, 58, 173, 0.889);
+    position:relative;
+    left: 30.5%;
+    bottom: 26px;
+}
+.C:hover{
+    background-color: rgb(75, 148, 199);
+    transition: 3s;
+}
+.D{
+    width:200px;
+    height: 200px;
+    text-align: center;
+    background-color: rgb(91, 91, 187);
+    position: relative;
+    left: 75%;
+    bottom: 46px;
+}
+.D:hover{
+    background-color: thistle;
+    transition:3s
+}
+.E{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    background-color:plum;
+    position: relative;
+    left:174%;
+    bottom: 49px;
+}
+.E:hover{
+    background-color: silver;
+    transition: 3s;
+}
+.parent1{
+    display: flex;
+    flex direction: row;
+}
+.parent2{
+    display: flex;
+    flex direction:row;
+}
+body{
+    background-image: url(/images/PHOTOGRAPHING2.JPG);
+}
