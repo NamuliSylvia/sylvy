@@ -17,7 +17,6 @@
     background-color: aquamarine;
     display:inline-block;
     left: 56.6%;
-    right: 800px;
 }
 .B:hover{
     background-color: rgb(240, 240, 238);
@@ -29,8 +28,7 @@
     text-align: center;
     background-color: rgba(173, 58, 173, 0.889);
     display:inline-block
-    right:400px;
-    bottom: 0px;
+    left:30%;
 }
 .C:hover{
     background-color: rgb(75, 148, 199);
@@ -42,7 +40,6 @@
     text-align: center;
     background-color: rgb(91, 91, 187);
     left: 75%;
-    
     display:inline-block;
 }
 .D:hover{
@@ -55,7 +52,6 @@
     text-align: center;
     background-color:plum;
     left:174%;
-    right:800px;
     display:inline-block;
 }
 .E:hover{
@@ -71,5 +67,5 @@
     flex direction:row;
 }
 body{
-    background-image: url(/images/PHOTOGRAPHING2.JPG);
+    background-image: url(images/PHOTOGRAPHING2.JPG);
 }
