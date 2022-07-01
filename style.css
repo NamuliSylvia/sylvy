@@ -1,11 +1,9 @@
 .A{
-    width: 350px;
+    width: 020px;
     height: 200px;
     text-align: center;
     display:in-line box;
     background-color: olive;
-    position: relative;
-    top: 16px;
     
 }
 .A:hover{
@@ -13,14 +11,12 @@
     transition:3s
 }
 .B{
-    width: 350px;
+    width: 200px;
     height:200px;
     text-align: center;
     background-color: aquamarine;
-    position: relative;
     display:in-line box;
-    left: 56.6%;
-    bottom: 0px;
+    margin-left: 56.6%;
 }
 .B:hover{
     background-color: rgb(240, 240, 238);
