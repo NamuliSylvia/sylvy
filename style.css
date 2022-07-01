@@ -8,7 +8,7 @@
 }
 .A:hover{
     background-color: rgb(86, 84, 84);
-    transition:3s
+    transition:3s;
 }
 .B{
     width: 200px;
@@ -20,14 +20,14 @@
 }
 .B:hover{
     background-color: rgb(240, 240, 238);
-    transition:3s
+    transition:3s;
 }
 .C{
     width:200px;
     height:200px;
     text-align: center;
     background-color: rgba(173, 58, 173, 0.889);
-    display:inline-block
+    display:inline-block;
     left:30%;
 }
 .C:hover{
@@ -44,7 +44,7 @@
 }
 .D:hover{
     background-color: thistle;
-    transition:3s
+    transition:3s;
 }
 .E{
     width: 200px;
