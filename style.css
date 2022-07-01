@@ -16,7 +16,7 @@
     text-align: center;
     background-color: aquamarine;
     position:relative;
-    left: 56.6%;
+    left: 40%;
 }
 .B:hover{
     background-color: rgb(240, 240, 238);
@@ -28,7 +28,8 @@
     text-align: center;
     background-color: rgba(173, 58, 173, 0.889);
     position:relative;
-    left:30%;
+    left:22%;
+    bottom:10px;
 }
 .C:hover{
     background-color: rgb(75, 148, 199);
@@ -39,7 +40,7 @@
     height: 200px;
     text-align: center;
     background-color: rgb(91, 91, 187);
-    left: 75%;
+    bottom:15px;
     position:relative;
 }
 .D:hover{
@@ -51,8 +52,10 @@
     height: 200px;
     text-align: center;
     background-color:plum;
-    left:174%;
     position:relative;
+    left:40%;
+    bottom:10px;
+    
 }
 .E:hover{
     background-color: silver;
