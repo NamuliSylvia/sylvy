@@ -2,7 +2,7 @@
     width: 200px;
     height: 200px;
     text-align: center;
-    display:inline-block;
+    position:relative;
     background-color: olive;
     
 }
@@ -15,7 +15,7 @@
     height:200px;
     text-align: center;
     background-color: aquamarine;
-    display:inline-block;
+    position:relative;
     left: 56.6%;
 }
 .B:hover{
@@ -27,7 +27,7 @@
     height:200px;
     text-align: center;
     background-color: rgba(173, 58, 173, 0.889);
-    display:inline-block;
+    position:relative;
     left:30%;
 }
 .C:hover{
@@ -40,7 +40,7 @@
     text-align: center;
     background-color: rgb(91, 91, 187);
     left: 75%;
-    display:inline-block;
+    position:relative;
 }
 .D:hover{
     background-color: thistle;
@@ -52,7 +52,7 @@
     text-align: center;
     background-color:plum;
     left:174%;
-    display:inline-block;
+    position:relative;
 }
 .E:hover{
     background-color: silver;
