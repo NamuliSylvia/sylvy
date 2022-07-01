@@ -27,8 +27,7 @@
     height:200px;
     text-align: center;
     background-color: rgba(173, 58, 173, 0.889);
-    position:relative;
-    left: 35.5%;
+    margin-left: 35.5%;
     bottom: 26px;
 }
 .C:hover{
@@ -40,8 +39,7 @@
     height: 200px;
     text-align: center;
     background-color: rgb(91, 91, 187);
-    position: relative;
-    left: 75%;
+    margin-left: 75%;
     bottom: 0px;
     display:in-line box;
 }
@@ -54,8 +52,7 @@
     height: 200px;
     text-align: center;
     background-color:plum;
-    position: relative;
-    left:174%;
+    margin-left:174%;
     bottom: 0px;
     display:in-line box;
 }
