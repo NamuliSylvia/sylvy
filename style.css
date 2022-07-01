@@ -1,8 +1,8 @@
 .A{
-    width: 020px;
+    width: 200px;
     height: 200px;
     text-align: center;
-    display:in-line box;
+    display:inline-block;
     background-color: olive;
     
 }
@@ -15,7 +15,7 @@
     height:200px;
     text-align: center;
     background-color: aquamarine;
-    display:in-line box;
+    display:inline-block;
     margin-left: 56.6%;
 }
 .B:hover{
@@ -27,8 +27,9 @@
     height:200px;
     text-align: center;
     background-color: rgba(173, 58, 173, 0.889);
+    display:inline-block
     margin-left: 35.5%;
-    bottom: 26px;
+    bottom: 0px;
 }
 .C:hover{
     background-color: rgb(75, 148, 199);
@@ -41,7 +42,7 @@
     background-color: rgb(91, 91, 187);
     margin-left: 75%;
     bottom: 0px;
-    display:in-line box;
+    display:inline-block;
 }
 .D:hover{
     background-color: thistle;
@@ -54,7 +55,7 @@
     background-color:plum;
     margin-left:174%;
     bottom: 0px;
-    display:in-line box;
+    display:inline-block;
 }
 .E:hover{
     background-color: silver;
