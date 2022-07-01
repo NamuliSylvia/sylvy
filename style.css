@@ -28,8 +28,8 @@
     text-align: center;
     background-color: rgba(173, 58, 173, 0.889);
     position:relative;
-    left:10%;
-    bottom:10px;
+    left:5%;
+    bottom:5px;
 }
 .C:hover{
     background-color: rgb(75, 148, 199);
