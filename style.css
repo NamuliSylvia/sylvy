@@ -4,6 +4,7 @@
     text-align: center;
     position:relative;
     background-color: olive;
+    left:16%
     
 }
 .A:hover{
@@ -16,7 +17,8 @@
     text-align: center;
     background-color: aquamarine;
     position:relative;
-    left: 40%;
+    left: 45%;
+    top:10px;
 }
 .B:hover{
     background-color: rgb(240, 240, 238);
