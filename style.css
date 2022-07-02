@@ -19,7 +19,7 @@
     text-align: center;
     background-color: aquamarine;
     position:relative;
-    left: 50%;
+    margin-left: 200px;
     display: inline-block;
 }
 .B:hover{
@@ -32,7 +32,7 @@
     text-align: center;
     background-color: rgba(173, 58, 173, 0.889);
     position:relative;
-    left:25%;
+    margin-left:100px;
     
 }
 .C:hover{
@@ -57,7 +57,7 @@
     text-align: center;
     background-color:plum;
     position:relative;
-    left:50%;
+    margin-left: 200px;
     display:inline-block;
     
 }
