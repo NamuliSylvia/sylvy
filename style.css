@@ -4,7 +4,7 @@
     text-align: center;
     position:relative;
     background-color: olive;
-    left:16%;
+    left:0%;
     display: inline-block;
         
     
@@ -19,7 +19,7 @@
     text-align: center;
     background-color: aquamarine;
     position:relative;
-    left: 45%;
+    left: 50%;
     display: inline-block;
 }
 .B:hover{
@@ -32,7 +32,7 @@
     text-align: center;
     background-color: rgba(173, 58, 173, 0.889);
     position:relative;
-    left:20%;
+    left:25%;
     
 }
 .C:hover{
@@ -57,7 +57,7 @@
     text-align: center;
     background-color:plum;
     position:relative;
-    left:40%;
+    left:50%;
     display:inline-block;
     
 }
